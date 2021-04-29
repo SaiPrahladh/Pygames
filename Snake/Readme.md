@@ -3,6 +3,8 @@
 This is one of the most classic and simple games that can be a 'Hello World' to start of the project.
 The main library whose functionalities are leveraged here is Pygame.
 
+<img src="https://github.com/SaiPrahladh/Pygames/blob/main/Snake/ezgif.com-gif-maker.gif" width="400" height="400" />
+
 CREDITS: I followed the tutorial by NeuralNine to code this simple game : https://www.youtube.com/watch?v=PHdZdrMCKuY&t=274s&ab_channel=NeuralNine
 
 ##### Libraries required:
