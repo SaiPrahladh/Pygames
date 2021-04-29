@@ -9,6 +9,8 @@ CREDITS: I followed the tutorial by NeuralNine to code this simple game : https:
 1. pygame
 2. random
 3. time
+
+
 You can easily install pygame through pip install pygame.
 
 To run the game:
