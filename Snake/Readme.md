@@ -16,4 +16,5 @@ You can easily install pygame through
 pip install pygame
 
 To run the game:
+
 python snake.py
