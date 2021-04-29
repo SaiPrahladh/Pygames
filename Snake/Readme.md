@@ -12,6 +12,7 @@ CREDITS: I followed the tutorial by NeuralNine to code this simple game : https:
 
 
 You can easily install pygame through 
+
 pip install pygame
 
 To run the game:
