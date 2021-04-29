@@ -11,7 +11,8 @@ CREDITS: I followed the tutorial by NeuralNine to code this simple game : https:
 3. time
 
 
-You can easily install pygame through pip install pygame.
+You can easily install pygame through 
+pip install pygame
 
 To run the game:
 python snake.py
